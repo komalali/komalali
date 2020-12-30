@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   1 hr 13 mins    ███████████▒░░░░░░░░░░░░░   45.78 % 
+Python       41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.89 % 
+Go           36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 % 
+Markdown     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+```
 <!--END_SECTION:waka-->
