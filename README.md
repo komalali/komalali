@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4009](https://github.com/pulumi/pulumi/issues/4009) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#4009](https://github.com/pulumi/pulumi/issues/4009) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#6058](https://github.com/pulumi/pulumi/issues/6058) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#6058](https://github.com/pulumi/pulumi/issues/6058) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 💪 Opened PR [#1](https://github.com/ashevtsov-wawa/getobject-test/pull/1) in [ashevtsov-wawa/getobject-test](https://github.com/ashevtsov-wawa/getobject-test)
+1. ❗️ Closed issue [#6058](https://github.com/pulumi/pulumi/issues/6058) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#6058](https://github.com/pulumi/pulumi/issues/6058) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. ❗️ Closed issue [#4009](https://github.com/pulumi/pulumi/issues/4009) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#4009](https://github.com/pulumi/pulumi/issues/4009) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#6058](https://github.com/pulumi/pulumi/issues/6058) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
