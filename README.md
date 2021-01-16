@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/pulumi/pulumi-terraform-bridge/issues/317) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
-2. 🗣 Commented on [#1297](https://github.com/pulumi/pulumi-aws/issues/1297) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
-3. 💪 Opened PR [#317](https://github.com/pulumi/pulumi-terraform-bridge/pull/317) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
-4. ❗️ Opened issue [#6126](https://github.com/pulumi/pulumi/issues/6126) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#1276](https://github.com/pulumi/pulumi-aws/issues/1276) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+1. 🗣 Commented on [#1276](https://github.com/pulumi/pulumi-aws/issues/1276) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+2. 🗣 Commented on [#317](https://github.com/pulumi/pulumi-terraform-bridge/issues/317) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
+3. 🗣 Commented on [#1297](https://github.com/pulumi/pulumi-aws/issues/1297) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+4. 💪 Opened PR [#317](https://github.com/pulumi/pulumi-terraform-bridge/pull/317) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
+5. ❗️ Opened issue [#6126](https://github.com/pulumi/pulumi/issues/6126) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
