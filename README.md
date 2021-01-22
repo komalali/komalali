@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5007](https://github.com/pulumi/docs/pull/5007) in [pulumi/docs](https://github.com/pulumi/docs)
-2. 💪 Opened PR [#6178](https://github.com/pulumi/pulumi/pull/6178) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🎉 Merged PR [#814](https://github.com/pulumi/pulumi-azure/pull/814) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
-4. 💪 Opened PR [#814](https://github.com/pulumi/pulumi-azure/pull/814) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
-5. 🎉 Merged PR [#317](https://github.com/pulumi/pulumi-terraform-bridge/pull/317) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
+1. 🎉 Merged PR [#6178](https://github.com/pulumi/pulumi/pull/6178) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 💪 Opened PR [#5007](https://github.com/pulumi/docs/pull/5007) in [pulumi/docs](https://github.com/pulumi/docs)
+3. 💪 Opened PR [#6178](https://github.com/pulumi/pulumi/pull/6178) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🎉 Merged PR [#814](https://github.com/pulumi/pulumi-azure/pull/814) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
+5. 💪 Opened PR [#814](https://github.com/pulumi/pulumi-azure/pull/814) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
 <!--END_SECTION:activity-->
 
 --------
