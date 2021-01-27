@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5030](https://github.com/pulumi/docs/pull/5030) in [pulumi/docs](https://github.com/pulumi/docs)
-2. ❗️ Closed issue [#4607](https://github.com/pulumi/docs/issues/4607) in [pulumi/docs](https://github.com/pulumi/docs)
-3. 🎉 Merged PR [#6206](https://github.com/pulumi/pulumi/pull/6206) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🎉 Merged PR [#5007](https://github.com/pulumi/docs/pull/5007) in [pulumi/docs](https://github.com/pulumi/docs)
-5. ❗️ Closed issue [#6053](https://github.com/pulumi/pulumi/issues/6053) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#319](https://github.com/pulumi/pulumi-terraform-bridge/pull/319) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
+2. ❗️ Closed issue [#1297](https://github.com/pulumi/pulumi-aws/issues/1297) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+3. 🗣 Commented on [#319](https://github.com/pulumi/pulumi-terraform-bridge/issues/319) in [pulumi/pulumi-terraform-bridge](https://github.com/pulumi/pulumi-terraform-bridge)
+4. 🎉 Merged PR [#5030](https://github.com/pulumi/docs/pull/5030) in [pulumi/docs](https://github.com/pulumi/docs)
+5. ❗️ Closed issue [#4607](https://github.com/pulumi/docs/issues/4607) in [pulumi/docs](https://github.com/pulumi/docs)
 <!--END_SECTION:activity-->
 
 --------
