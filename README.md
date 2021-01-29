@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#222](https://github.com/pulumi/tf2pulumi/issues/222) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
-2. 🗣 Commented on [#207](https://github.com/pulumi/tf2pulumi/issues/207) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
-3. ❗️ Opened issue [#5047](https://github.com/pulumi/docs/issues/5047) in [pulumi/docs](https://github.com/pulumi/docs)
-4. 🎉 Merged PR [#5043](https://github.com/pulumi/docs/pull/5043) in [pulumi/docs](https://github.com/pulumi/docs)
-5. ❗️ Closed issue [#2819](https://github.com/pulumi/docs/issues/2819) in [pulumi/docs](https://github.com/pulumi/docs)
+1. ❌ Closed PR [#198](https://github.com/pulumi/tf2pulumi/pull/198) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
+2. 🗣 Commented on [#198](https://github.com/pulumi/tf2pulumi/issues/198) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
+3. 🎉 Merged PR [#224](https://github.com/pulumi/tf2pulumi/pull/224) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
+4. 🎉 Merged PR [#225](https://github.com/pulumi/tf2pulumi/pull/225) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
+5. 💪 Opened PR [#225](https://github.com/pulumi/tf2pulumi/pull/225) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
 <!--END_SECTION:activity-->
 
 --------
