@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. ❗️ Opened issue [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#222](https://github.com/pulumi/tf2pulumi/issues/222) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
-4. ❌ Closed PR [#198](https://github.com/pulumi/tf2pulumi/pull/198) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
-5. 🗣 Commented on [#198](https://github.com/pulumi/tf2pulumi/issues/198) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
+2. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. ❗️ Opened issue [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#222](https://github.com/pulumi/tf2pulumi/issues/222) in [pulumi/tf2pulumi](https://github.com/pulumi/tf2pulumi)
 <!--END_SECTION:activity-->
 
 --------
