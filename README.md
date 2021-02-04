@@ -15,7 +15,7 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 💪 Opened PR [#6249](https://github.com/pulumi/pulumi/pull/6249) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 2. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 3. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 4. 🗣 Commented on [#6228](https://github.com/pulumi/pulumi/issues/6228) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
