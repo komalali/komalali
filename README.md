@@ -19,7 +19,7 @@
 2. 🗣 Commented on [#6329](https://github.com/pulumi/pulumi/issues/6329) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 3. 🗣 Commented on [#6329](https://github.com/pulumi/pulumi/issues/6329) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 4. 🗣 Commented on [#6329](https://github.com/pulumi/pulumi/issues/6329) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❗️ Opened issue [#6329](https://github.com/pulumi/pulumi/issues/6329) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#6329](https://github.com/pulumi/pulumi/issues/6329) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
