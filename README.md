@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/pulumi/pulumi-vsphere/issues/127) in [pulumi/pulumi-vsphere](https://github.com/pulumi/pulumi-vsphere)
-2. 💪 Opened PR [#6429](https://github.com/pulumi/pulumi/pull/6429) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#6397](https://github.com/pulumi/pulumi/issues/6397) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. ❗️ Closed issue [#6062](https://github.com/pulumi/pulumi/issues/6062) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❗️ Closed issue [#5257](https://github.com/pulumi/pulumi/issues/5257) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#6429](https://github.com/pulumi/pulumi/pull/6429) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. ❗️ Closed issue [#127](https://github.com/pulumi/pulumi-vsphere/issues/127) in [pulumi/pulumi-vsphere](https://github.com/pulumi/pulumi-vsphere)
+3. 🎉 Merged PR [#6397](https://github.com/pulumi/pulumi/pull/6397) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#127](https://github.com/pulumi/pulumi-vsphere/issues/127) in [pulumi/pulumi-vsphere](https://github.com/pulumi/pulumi-vsphere)
+5. 💪 Opened PR [#6429](https://github.com/pulumi/pulumi/pull/6429) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
