@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5218](https://github.com/pulumi/pulumi/issues/5218) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#5218](https://github.com/pulumi/pulumi/issues/5218) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. ❗️ Closed issue [#5219](https://github.com/pulumi/pulumi/issues/5219) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#5219](https://github.com/pulumi/pulumi/issues/5219) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❗️ Closed issue [#5220](https://github.com/pulumi/pulumi/issues/5220) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#6433](https://github.com/pulumi/pulumi/pull/6433) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. ❗️ Closed issue [#1479](https://github.com/pulumi/pulumi-kubernetes/issues/1479) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
+3. ❗️ Closed issue [#5218](https://github.com/pulumi/pulumi/issues/5218) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#5218](https://github.com/pulumi/pulumi/issues/5218) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Closed issue [#5219](https://github.com/pulumi/pulumi/issues/5219) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
