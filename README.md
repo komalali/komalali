@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6450](https://github.com/pulumi/pulumi/pull/6450) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🎉 Merged PR [#6447](https://github.com/pulumi/pulumi/pull/6447) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 💪 Opened PR [#6447](https://github.com/pulumi/pulumi/pull/6447) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🎉 Merged PR [#1480](https://github.com/pulumi/pulumi-kubernetes/pull/1480) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
-5. 💪 Opened PR [#1480](https://github.com/pulumi/pulumi-kubernetes/pull/1480) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
+1. 🎉 Merged PR [#6450](https://github.com/pulumi/pulumi/pull/6450) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 💪 Opened PR [#6450](https://github.com/pulumi/pulumi/pull/6450) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🎉 Merged PR [#6447](https://github.com/pulumi/pulumi/pull/6447) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 💪 Opened PR [#6447](https://github.com/pulumi/pulumi/pull/6447) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🎉 Merged PR [#1480](https://github.com/pulumi/pulumi-kubernetes/pull/1480) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
 <!--END_SECTION:activity-->
 
 --------
