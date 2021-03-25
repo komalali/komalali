@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#954](https://github.com/pulumi/examples/issues/954) in [pulumi/examples](https://github.com/pulumi/examples)
-2. 🗣 Commented on [#1506](https://github.com/pulumi/pulumi-kubernetes/issues/1506) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
-3. 🗣 Commented on [#6620](https://github.com/pulumi/pulumi/issues/6620) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#6606](https://github.com/pulumi/pulumi/issues/6606) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#6620](https://github.com/pulumi/pulumi/issues/6620) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🗣 Commented on [#6620](https://github.com/pulumi/pulumi/issues/6620) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#954](https://github.com/pulumi/examples/issues/954) in [pulumi/examples](https://github.com/pulumi/examples)
+3. 🗣 Commented on [#1506](https://github.com/pulumi/pulumi-kubernetes/issues/1506) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
+4. 🗣 Commented on [#6620](https://github.com/pulumi/pulumi/issues/6620) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#6606](https://github.com/pulumi/pulumi/issues/6606) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
