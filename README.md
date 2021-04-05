@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6561](https://github.com/pulumi/pulumi/issues/6561) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🎉 Merged PR [#1](https://github.com/komalali/static-site-platyform/pull/1) in [komalali/static-site-platyform](https://github.com/komalali/static-site-platyform)
-3. ❗️ Closed issue [#6103](https://github.com/pulumi/pulumi/issues/6103) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🗣 Commented on [#6701](https://github.com/pulumi/pulumi/issues/6701) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#6561](https://github.com/pulumi/pulumi/issues/6561) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🎉 Merged PR [#1](https://github.com/komalali/static-site-platyform/pull/1) in [komalali/static-site-platyform](https://github.com/komalali/static-site-platyform)
 4. ❗️ Closed issue [#6103](https://github.com/pulumi/pulumi/issues/6103) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#6103](https://github.com/pulumi/pulumi/issues/6103) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Closed issue [#6103](https://github.com/pulumi/pulumi/issues/6103) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
