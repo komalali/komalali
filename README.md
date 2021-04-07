@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6609](https://github.com/pulumi/pulumi/issues/6609) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🎉 Merged PR [#2](https://github.com/komalali/self-service-platyform/pull/2) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
-3. 💪 Opened PR [#2](https://github.com/komalali/self-service-platyform/pull/2) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
-4. 🎉 Merged PR [#6698](https://github.com/pulumi/pulumi/pull/6698) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❗️ Opened issue [#6711](https://github.com/pulumi/pulumi/issues/6711) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. ❗️ Opened issue [#5](https://github.com/komalali/self-service-platyform/issues/5) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
+2. ❗️ Opened issue [#4](https://github.com/komalali/self-service-platyform/issues/4) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
+3. ❗️ Opened issue [#3](https://github.com/komalali/self-service-platyform/issues/3) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
+4. ❗️ Closed issue [#6609](https://github.com/pulumi/pulumi/issues/6609) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🎉 Merged PR [#2](https://github.com/komalali/self-service-platyform/pull/2) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
 <!--END_SECTION:activity-->
 
 --------
