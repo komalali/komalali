@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6776](https://github.com/pulumi/pulumi/pull/6776) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#163](https://github.com/pulumi/actions/issues/163) in [pulumi/actions](https://github.com/pulumi/actions)
-3. 💪 Opened PR [#65](https://github.com/pulumi/pulumi-hugo/pull/65) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-4. 🎉 Merged PR [#62](https://github.com/pulumi/pulumi-hugo/pull/62) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-5. 💪 Opened PR [#62](https://github.com/pulumi/pulumi-hugo/pull/62) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
+1. 🗣 Commented on [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 💪 Opened PR [#6776](https://github.com/pulumi/pulumi/pull/6776) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#163](https://github.com/pulumi/actions/issues/163) in [pulumi/actions](https://github.com/pulumi/actions)
+4. 💪 Opened PR [#65](https://github.com/pulumi/pulumi-hugo/pull/65) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
+5. 🎉 Merged PR [#62](https://github.com/pulumi/pulumi-hugo/pull/62) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
 <!--END_SECTION:activity-->
 
 --------
