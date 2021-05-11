@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7016](https://github.com/pulumi/pulumi/pull/7016) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 💪 Opened PR [#17](https://github.com/jaxxstorm/pulumi-examples/pull/17) in [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples)
-4. 🎉 Merged PR [#6984](https://github.com/pulumi/pulumi/pull/6984) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 💪 Opened PR [#6984](https://github.com/pulumi/pulumi/pull/6984) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#7016](https://github.com/pulumi/pulumi/pull/7016) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. ❗️ Closed issue [#6952](https://github.com/pulumi/pulumi/issues/6952) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 💪 Opened PR [#7016](https://github.com/pulumi/pulumi/pull/7016) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 💪 Opened PR [#17](https://github.com/jaxxstorm/pulumi-examples/pull/17) in [jaxxstorm/pulumi-examples](https://github.com/jaxxstorm/pulumi-examples)
 <!--END_SECTION:activity-->
 
 --------
