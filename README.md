@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6952](https://github.com/pulumi/pulumi/issues/6952) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. ❌ Closed PR [#7027](https://github.com/pulumi/pulumi/pull/7027) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#4963](https://github.com/pulumi/pulumi/issues/4963) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 3. 🗣 Commented on [#6952](https://github.com/pulumi/pulumi/issues/6952) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 4. 🗣 Commented on [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🎉 Merged PR [#7023](https://github.com/pulumi/pulumi/pull/7023) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#6952](https://github.com/pulumi/pulumi/issues/6952) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
