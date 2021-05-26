@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5747](https://github.com/pulumi/pulumi/issues/5747) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#6620](https://github.com/pulumi/pulumi/issues/6620) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🎉 Merged PR [#7032](https://github.com/pulumi/pulumi/pull/7032) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. ❗️ Closed issue [#6768](https://github.com/pulumi/pulumi/issues/6768) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🎉 Merged PR [#7052](https://github.com/pulumi/pulumi/pull/7052) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. ❗️ Reopened issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+2. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+3. ❗️ Closed issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+4. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+5. ❗️ Opened issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 <!--END_SECTION:activity-->
 
 --------
