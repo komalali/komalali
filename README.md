@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+1. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 2. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-3. ❗️ Closed issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+3. ❗️ Reopened issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 4. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-5. ❗️ Opened issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+5. ❗️ Closed issue [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
 <!--END_SECTION:activity-->
 
 --------
