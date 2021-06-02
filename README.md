@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7182](https://github.com/pulumi/pulumi/issues/7182) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#7184](https://github.com/pulumi/pulumi/issues/7184) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
-4. ❌ Closed PR [#7167](https://github.com/pulumi/pulumi/pull/7167) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#7167](https://github.com/pulumi/pulumi/issues/7167) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#7182](https://github.com/pulumi/pulumi/issues/7182) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#7184](https://github.com/pulumi/pulumi/issues/7184) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#33](https://github.com/charmbracelet/lipgloss/issues/33) in [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss)
+5. ❌ Closed PR [#7167](https://github.com/pulumi/pulumi/pull/7167) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
