@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7112](https://github.com/pulumi/pulumi/issues/7112) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 💪 Opened PR [#7265](https://github.com/pulumi/pulumi/pull/7265) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 2. 🗣 Commented on [#7112](https://github.com/pulumi/pulumi/issues/7112) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#7042](https://github.com/pulumi/pulumi/issues/7042) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🎉 Merged PR [#6](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate/pull/6) in [pulumi/pulumi-component-provider-ts-boilerplate](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate)
-5. 💪 Opened PR [#6](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate/pull/6) in [pulumi/pulumi-component-provider-ts-boilerplate](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate)
+3. 🗣 Commented on [#7112](https://github.com/pulumi/pulumi/issues/7112) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#7042](https://github.com/pulumi/pulumi/issues/7042) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🎉 Merged PR [#6](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate/pull/6) in [pulumi/pulumi-component-provider-ts-boilerplate](https://github.com/pulumi/pulumi-component-provider-ts-boilerplate)
 <!--END_SECTION:activity-->
 
 --------
