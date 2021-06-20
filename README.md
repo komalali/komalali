@@ -27,7 +27,7 @@
 📊 **Weekly Dev Breakdown**
 <!--START_SECTION:waka-->
 ```text
-Go           8 mins          █████████████████████▓░░░   87.33 % 
+
 ```
 <!--END_SECTION:waka-->
 
