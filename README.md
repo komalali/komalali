@@ -15,7 +15,7 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7367](https://github.com/pulumi/pulumi/issues/7367) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. ❗️ Opened issue [#595](https://github.com/pulumi/pulumi-eks/issues/595) in [pulumi/pulumi-eks](https://github.com/pulumi/pulumi-eks)
 2. 🗣 Commented on [#7367](https://github.com/pulumi/pulumi/issues/7367) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 3. 🗣 Commented on [#7367](https://github.com/pulumi/pulumi/issues/7367) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 4. 🗣 Commented on [#7367](https://github.com/pulumi/pulumi/issues/7367) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
