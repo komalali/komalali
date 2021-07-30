@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7487](https://github.com/pulumi/pulumi/issues/7487) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#6570](https://github.com/pulumi/pulumi/issues/6570) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🎉 Merged PR [#5012](https://github.com/pulumi/pulumi/pull/5012) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#7666](https://github.com/pulumi/pulumi/issues/7666) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❌ Closed PR [#6880](https://github.com/pulumi/pulumi/pull/6880) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🗣 Commented on [#1033](https://github.com/pulumi/pulumi-azure-native/issues/1033) in [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native)
+2. 🗣 Commented on [#7487](https://github.com/pulumi/pulumi/issues/7487) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#6570](https://github.com/pulumi/pulumi/issues/6570) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🎉 Merged PR [#5012](https://github.com/pulumi/pulumi/pull/5012) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#7666](https://github.com/pulumi/pulumi/issues/7666) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
