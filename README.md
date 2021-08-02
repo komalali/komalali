@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6902](https://github.com/pulumi/pulumi/issues/6902) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#7523](https://github.com/pulumi/pulumi/issues/7523) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#1033](https://github.com/pulumi/pulumi-azure-native/issues/1033) in [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native)
-4. 🗣 Commented on [#7487](https://github.com/pulumi/pulumi/issues/7487) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#6570](https://github.com/pulumi/pulumi/issues/6570) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#6902](https://github.com/pulumi/pulumi/pull/6902) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#6902](https://github.com/pulumi/pulumi/issues/6902) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#7523](https://github.com/pulumi/pulumi/issues/7523) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#1033](https://github.com/pulumi/pulumi-azure-native/issues/1033) in [pulumi/pulumi-azure-native](https://github.com/pulumi/pulumi-azure-native)
+5. 🗣 Commented on [#7487](https://github.com/pulumi/pulumi/issues/7487) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
