@@ -27,7 +27,7 @@
 📊 **Weekly Dev Breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       1 min           ████████████████▓░░░░░░░░   66.59 % 
 ```
 <!--END_SECTION:waka-->
 
