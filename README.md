@@ -17,9 +17,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7936](https://github.com/pulumi/pulumi/issues/7936) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 2. 🗣 Commented on [#7936](https://github.com/pulumi/pulumi/issues/7936) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. ❗️ Opened issue [#6426](https://github.com/pulumi/docs/issues/6426) in [pulumi/docs](https://github.com/pulumi/docs)
-4. 🎉 Merged PR [#7917](https://github.com/pulumi/pulumi/pull/7917) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 💪 Opened PR [#7917](https://github.com/pulumi/pulumi/pull/7917) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#7936](https://github.com/pulumi/pulumi/issues/7936) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. ❗️ Opened issue [#6426](https://github.com/pulumi/docs/issues/6426) in [pulumi/docs](https://github.com/pulumi/docs)
+5. 🎉 Merged PR [#7917](https://github.com/pulumi/pulumi/pull/7917) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
