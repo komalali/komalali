@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7999](https://github.com/pulumi/pulumi/pull/7999) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 💪 Opened PR [#7998](https://github.com/pulumi/pulumi/pull/7998) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#7960](https://github.com/pulumi/pulumi/issues/7960) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. ❗️ Opened issue [#7995](https://github.com/pulumi/pulumi/issues/7995) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. ❌ Closed PR [#7868](https://github.com/pulumi/pulumi/pull/7868) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#7999](https://github.com/pulumi/pulumi/pull/7999) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 💪 Opened PR [#7999](https://github.com/pulumi/pulumi/pull/7999) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 💪 Opened PR [#7998](https://github.com/pulumi/pulumi/pull/7998) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#7960](https://github.com/pulumi/pulumi/issues/7960) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Opened issue [#7995](https://github.com/pulumi/pulumi/issues/7995) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
