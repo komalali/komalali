@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5681](https://github.com/pulumi/pulumi/issues/5681) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#6426](https://github.com/pulumi/docs/issues/6426) in [pulumi/docs](https://github.com/pulumi/docs)
-3. ❗️ Closed issue [#8018](https://github.com/pulumi/pulumi/issues/8018) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🗣 Commented on [#8085](https://github.com/pulumi/pulumi/issues/8085) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#5681](https://github.com/pulumi/pulumi/issues/5681) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#6426](https://github.com/pulumi/docs/issues/6426) in [pulumi/docs](https://github.com/pulumi/docs)
 4. ❗️ Closed issue [#8018](https://github.com/pulumi/pulumi/issues/8018) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🗣 Commented on [#8018](https://github.com/pulumi/pulumi/issues/8018) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Closed issue [#8018](https://github.com/pulumi/pulumi/issues/8018) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
