@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com/pulumi/pulumi-random/pull/181) in [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random)
-2. 🗣 Commented on [#6445](https://github.com/pulumi/pulumi/issues/6445) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#2247](https://github.com/pulumi/pulumi/issues/2247) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#6426](https://github.com/pulumi/docs/issues/6426) in [pulumi/docs](https://github.com/pulumi/docs)
-5. 🎉 Merged PR [#8093](https://github.com/pulumi/pulumi/pull/8093) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#197](https://github.com/pulumi/pulumi-azuread/pull/197) in [pulumi/pulumi-azuread](https://github.com/pulumi/pulumi-azuread)
+2. 🎉 Merged PR [#181](https://github.com/pulumi/pulumi-random/pull/181) in [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random)
+3. 💪 Opened PR [#657](https://github.com/pulumi/pulumi-gcp/pull/657) in [pulumi/pulumi-gcp](https://github.com/pulumi/pulumi-gcp)
+4. 💪 Opened PR [#197](https://github.com/pulumi/pulumi-azuread/pull/197) in [pulumi/pulumi-azuread](https://github.com/pulumi/pulumi-azuread)
+5. 💪 Opened PR [#181](https://github.com/pulumi/pulumi-random/pull/181) in [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random)
 <!--END_SECTION:activity-->
 
 --------
