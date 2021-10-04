@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1645](https://github.com/pulumi/pulumi-aws/pull/1645) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
-2. 🎉 Merged PR [#956](https://github.com/pulumi/pulumi-azure/pull/956) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
-3. 🎉 Merged PR [#197](https://github.com/pulumi/pulumi-azuread/pull/197) in [pulumi/pulumi-azuread](https://github.com/pulumi/pulumi-azuread)
-4. 🎉 Merged PR [#181](https://github.com/pulumi/pulumi-random/pull/181) in [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random)
-5. 💪 Opened PR [#657](https://github.com/pulumi/pulumi-gcp/pull/657) in [pulumi/pulumi-gcp](https://github.com/pulumi/pulumi-gcp)
+1. 🎉 Merged PR [#8109](https://github.com/pulumi/pulumi/pull/8109) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🎉 Merged PR [#1645](https://github.com/pulumi/pulumi-aws/pull/1645) in [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+3. 🎉 Merged PR [#956](https://github.com/pulumi/pulumi-azure/pull/956) in [pulumi/pulumi-azure](https://github.com/pulumi/pulumi-azure)
+4. 🎉 Merged PR [#197](https://github.com/pulumi/pulumi-azuread/pull/197) in [pulumi/pulumi-azuread](https://github.com/pulumi/pulumi-azuread)
+5. 🎉 Merged PR [#181](https://github.com/pulumi/pulumi-random/pull/181) in [pulumi/pulumi-random](https://github.com/pulumi/pulumi-random)
 <!--END_SECTION:activity-->
 
 --------
