@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8147](https://github.com/pulumi/pulumi/issues/8147) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#8139](https://github.com/pulumi/pulumi/issues/8139) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 💪 Opened PR [#690](https://github.com/pulumi/pulumi-hugo/pull/690) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-4. ❗️ Closed issue [#684](https://github.com/pulumi/pulumi-hugo/issues/684) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-5. 🗣 Commented on [#8147](https://github.com/pulumi/pulumi/issues/8147) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🗣 Commented on [#8159](https://github.com/pulumi/pulumi/issues/8159) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#8147](https://github.com/pulumi/pulumi/issues/8147) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#8139](https://github.com/pulumi/pulumi/issues/8139) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 💪 Opened PR [#690](https://github.com/pulumi/pulumi-hugo/pull/690) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
+5. ❗️ Closed issue [#684](https://github.com/pulumi/pulumi-hugo/issues/684) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
 <!--END_SECTION:activity-->
 
 --------
