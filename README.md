@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. ❗️ Reopened issue [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🗣 Commented on [#8187](https://github.com/pulumi/pulumi/issues/8187) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🎉 Merged PR [#1100](https://github.com/pulumi/examples/pull/1100) in [pulumi/examples](https://github.com/pulumi/examples)
+2. 🗣 Commented on [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. ❗️ Reopened issue [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#8181](https://github.com/pulumi/pulumi/issues/8181) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🗣 Commented on [#8187](https://github.com/pulumi/pulumi/issues/8187) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
