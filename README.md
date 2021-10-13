@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1936](https://github.com/grpc/grpc-node/issues/1936) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
-2. 🗣 Commented on [#8184](https://github.com/pulumi/pulumi/issues/8184) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🎉 Merged PR [#720](https://github.com/pulumi/pulumi-hugo/pull/720) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-4. 🎉 Merged PR [#8196](https://github.com/pulumi/pulumi/pull/8196) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-5. 🎉 Merged PR [#34](https://github.com/pulumi/automation-api-examples/pull/34) in [pulumi/automation-api-examples](https://github.com/pulumi/automation-api-examples)
+2. 🗣 Commented on [#1936](https://github.com/grpc/grpc-node/issues/1936) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
+3. 🗣 Commented on [#8184](https://github.com/pulumi/pulumi/issues/8184) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🎉 Merged PR [#720](https://github.com/pulumi/pulumi-hugo/pull/720) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
+5. 🎉 Merged PR [#8196](https://github.com/pulumi/pulumi/pull/8196) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
 <!--END_SECTION:activity-->
 
 --------
