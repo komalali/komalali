@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8202](https://github.com/pulumi/pulumi/issues/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🎉 Merged PR [#8211](https://github.com/pulumi/pulumi/pull/8211) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#8211](https://github.com/pulumi/pulumi/issues/8211) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. 🎉 Merged PR [#681](https://github.com/pulumi/pulumi-hugo/pull/681) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
-5. 🗣 Commented on [#1936](https://github.com/grpc/grpc-node/issues/1936) in [grpc/grpc-node](https://github.com/grpc/grpc-node)
+1. 🗣 Commented on [#1768](https://github.com/pulumi/pulumi-kubernetes/issues/1768) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
+2. 🗣 Commented on [#8202](https://github.com/pulumi/pulumi/issues/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🎉 Merged PR [#8211](https://github.com/pulumi/pulumi/pull/8211) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#8211](https://github.com/pulumi/pulumi/issues/8211) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. 🎉 Merged PR [#681](https://github.com/pulumi/pulumi-hugo/pull/681) in [pulumi/pulumi-hugo](https://github.com/pulumi/pulumi-hugo)
 <!--END_SECTION:activity-->
 
 --------
