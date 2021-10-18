@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8202](https://github.com/pulumi/pulumi/issues/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 💪 Opened PR [#1769](https://github.com/pulumi/pulumi-kubernetes/pull/1769) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
-3. 🗣 Commented on [#57](https://github.com/pulumi/crd2pulumi/issues/57) in [pulumi/crd2pulumi](https://github.com/pulumi/crd2pulumi)
-4. 🗣 Commented on [#1768](https://github.com/pulumi/pulumi-kubernetes/issues/1768) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
-5. 🗣 Commented on [#8202](https://github.com/pulumi/pulumi/issues/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+1. 🎉 Merged PR [#8202](https://github.com/pulumi/pulumi/pull/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#8202](https://github.com/pulumi/pulumi/issues/8202) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 💪 Opened PR [#1769](https://github.com/pulumi/pulumi-kubernetes/pull/1769) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
+4. 🗣 Commented on [#57](https://github.com/pulumi/crd2pulumi/issues/57) in [pulumi/crd2pulumi](https://github.com/pulumi/crd2pulumi)
+5. 🗣 Commented on [#1768](https://github.com/pulumi/pulumi-kubernetes/issues/1768) in [pulumi/pulumi-kubernetes](https://github.com/pulumi/pulumi-kubernetes)
 <!--END_SECTION:activity-->
 
 --------
