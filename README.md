@@ -15,11 +15,11 @@
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8273](https://github.com/pulumi/pulumi/issues/8273) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-2. 🗣 Commented on [#8289](https://github.com/pulumi/pulumi/issues/8289) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-3. 🗣 Commented on [#8296](https://github.com/pulumi/pulumi/issues/8296) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
-4. ❗️ Closed issue [#4](https://github.com/komalali/self-service-platyform/issues/4) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
-5. 🎉 Merged PR [#6](https://github.com/komalali/self-service-platyform/pull/6) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
+1. 🎉 Merged PR [#8296](https://github.com/pulumi/pulumi/pull/8296) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+2. 🗣 Commented on [#8273](https://github.com/pulumi/pulumi/issues/8273) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+3. 🗣 Commented on [#8289](https://github.com/pulumi/pulumi/issues/8289) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+4. 🗣 Commented on [#8296](https://github.com/pulumi/pulumi/issues/8296) in [pulumi/pulumi](https://github.com/pulumi/pulumi)
+5. ❗️ Closed issue [#4](https://github.com/komalali/self-service-platyform/issues/4) in [komalali/self-service-platyform](https://github.com/komalali/self-service-platyform)
 <!--END_SECTION:activity-->
 
 --------
