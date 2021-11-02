@@ -6,7 +6,6 @@
 
 --------
 
-- 🔭 I’m currently working on [pulumi](https://github.com/pulumi/pulumi)
 - 😄 Pronouns: they/them
 - 📫 How to reach me: [@zwitkali](https://twitter.com/zwitkali) on Twitter
 - ⚡ Fun fact: My dog is afraid of flies 🪰
