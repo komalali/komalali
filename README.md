@@ -26,8 +26,7 @@
 📊 **Weekly Dev Breakdown**
 <!--START_SECTION:waka-->
 ```text
-YAML     15 mins         ███████████████████████▒░   92.88 % 
-Python   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
