@@ -27,7 +27,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python           5 mins          █████████████░░░░░░░░░░░░   51.85 %
+Bash             4 mins          █████████▒░░░░░░░░░░░░░░░   37.08 %
+Cheetah          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+.env file        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Docker           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+textmate         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
