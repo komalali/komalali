@@ -27,12 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash        1 hr 16 mins    ████████████████▓░░░░░░░░   66.86 %
-YAML        33 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-Python      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Terraform   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-HCL         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
