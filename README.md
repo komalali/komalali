@@ -27,7 +27,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python      1 hr 34 mins    █████████████████░░░░░░░░   67.89 %
+Terraform   44 mins         ████████░░░░░░░░░░░░░░░░░   32.11 %
 ```
 
 <!--END_SECTION:waka-->
