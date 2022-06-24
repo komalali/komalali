@@ -27,8 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python      1 hr 34 mins    █████████████████░░░░░░░░   67.89 %
+Python      1 hr 34 mins    █████████████████░░░░░░░░   67.88 %
 Terraform   44 mins         ████████░░░░░░░░░░░░░░░░░   32.11 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
