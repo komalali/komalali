@@ -27,8 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML     0 secs          █████████████▓░░░░░░░░░░░   55.23 %
-Python   0 secs          ███████████▒░░░░░░░░░░░░░   44.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
